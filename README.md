@@ -5,7 +5,7 @@
 2. After the project is open in VS 2019, do run the project to see if its compiling properly
 3. Run the project. the defualt base URL is http://localhost:8082/api/
 
-# To Execute the functinos please follow the below URL
+# To Execute the functions please follow the below URL
 1. http://localhost:8082/api/getAll - Will return list of all the orders
 2. http://localhost:8082/api/{id} - will retrun the specific order of the id specified.
 3. http://localhost:8082/api/create - this will create the orders with the ordersDetails passed
